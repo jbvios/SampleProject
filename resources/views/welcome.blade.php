@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel Framework
+                    Laravel Framework Sample
                 </div>
 
                 <div class="links">
